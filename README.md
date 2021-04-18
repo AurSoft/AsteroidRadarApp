@@ -1,9 +1,14 @@
-# Purpose of this Folder
+# Asteroid Radar
 
-This folder should contain the scaffolded project files to get a student started on their project. This repo will be added to the Classroom for students to use, so please do not have any solutions in this folder.
+This is an app for the second project of the Android Kotlin Developer Nanodegree.
 
-## Note: Android Kotlin Gradle Update
-Use the updated Gradle version in the `~/gradle/wrapper/gradle-wrapper.properties` file:
-```
-distributionUrl = https\://services.gradle.org/distributions/gradle-6.1.1-all.zip
-```
+The starter code of this app can be found here: https://github.com/udacity/nd940-android-kotlin-c2-starter/tree/master/starter
+
+The purpose of this project is to test the concepts learnt throughout this part of the course, such as:
+- Implementing a database (Room)
+- RecyclerView
+- Working with REST web services
+- Implementing the repository pattern
+- Accessibility (supporting TalkBack etc.)
+
+This is the reason why the starter code already implemented a basic structure, whose knowledge was already tested in a previous project: https://github.com/AurSoft/ShoeStoreInventoryApp
